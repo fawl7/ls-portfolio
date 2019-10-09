@@ -5,8 +5,8 @@
 
 ##  Чтобы развернуть проект необходимо:
 ```sh
-$ git clone git@github.com:loftschool/ls-advanced-portfolio.git
-$ cd ls-advanced-portfolio
+$ git clone https://github.com/fawl7/ls-portfolio.git
+$ cd ls-portfolio
 $ yarn
 ```
 
@@ -27,3 +27,6 @@ $ npm run имя_скрипта
 ```sh
 $ yarn имя_скрипта
 ```
+
+###### ФИО: 
+Артём Безукладников
